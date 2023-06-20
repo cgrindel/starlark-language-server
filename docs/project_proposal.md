@@ -29,7 +29,8 @@ The plan consists of four phases:
 1. Support auto completion.
 1. Support signature help.
 
-Other features that are on the roadmap are support for
+Assuming that we meet our initial funding goals, other features that are on the roadmap are support
+for
 
 - linting
 - formatting
@@ -52,18 +53,58 @@ green-lighting it for development.
 
 ### 💵 Contribute / Sponsorship
 
+We need your help! We can't get this project started without you. If you wish that your editor/IDE
+provided magic for Starlark like other first-class languages, please head over to the [contribution
+page] and sponsor this project.
+
 ### 🗓️ Timeline
+
+We are [collecting funds now]. The deadline for meeting the goal for the first phase of the project
+is August 1, 2023. If we hit our goal by August 1, 2023, implementation will start August 7, 2023.
 
 ## 🙋‍♀️ FAQ
 
+### Is this being run through Kickstarter?
+
+No. The financial management for this project is hosted by the [Starlark Language Server project]
+under the [Bazel Rules Authors SIG Open Collective].
+
+### Can I see the budget? Can I see how the money is being spent?
+
+Yes. All of the financial activity for the project can be viewed on the [Starlark Language Server
+project] page.
+
+### What kind of oversight is in place?
+
+The engineers that work on the project submit invoices for the work performed on the project.
+The invoices are reviewed and approved by [the administrators for the Bazel Rules Authors SIG Open
+Collective].
+
+### What happens if I donate money, but the first funding goal is not met?
+
+You have two options. The first option is that we can refund the money that you donated.
+Alternatively, you can choose to donate the money to the [Bazel Rules Authors SIG Open Collective].
+
+### Once implemented, are there any additional fees to use the Starlark language server?
+
+No. The code will be available on GitHub under the [Apache 2.0] license. However, we would greatly
+appreciate recurring sponsorship to incent the maintenance and upkeep of the project.
+
 ## 🌎 Related Links
 
-- [Starlark LSP issue](https://github.com/bazel-contrib/SIG-rules-authors/issues/52)
+- [Contribution page]
+- [Starlark LSP issue]
 
-[Go]: https://go.dev/
-[Chuck Grindel]: https://github.com/cgrindel
 [Apache 2.0]: https://www.apache.org/licenses/LICENSE-2.0
+[Bazel Rules Authors SIG Open Collective]: https://opencollective.com/bazel-rules-authors-sig
+[Chuck Grindel]: https://github.com/cgrindel
+[Go]: https://go.dev/
 [Language Server Protocol]: https://microsoft.github.io/language-server-protocol/
+[Starlark LSP issue]: https://github.com/bazel-contrib/SIG-rules-authors/issues/52
 [Starlark language]: https://github.com/bazelbuild/starlark/blob/master/spec.md
 [Starlark]: https://github.com/bazelbuild/starlark/blob/master/spec.md
-[contributing]: https://opencollective.com/bazel-rules-authors-sig/projects/language-server#category-CONTRIBUTE
+[collecting funds now]: https://opencollective.com/bazel-rules-authors-sig/projects/starlark-language-server#category-CONTRIBUTE
+[contributing]: https://opencollective.com/bazel-rules-authors-sig/projects/starlark-language-server#category-CONTRIBUTE
+[contribution page]: https://opencollective.com/bazel-rules-authors-sig/projects/starlark-language-server#category-CONTRIBUTE
+[Starlark Language Server project]: https://opencollective.com/bazel-rules-authors-sig/projects/starlark-language-server
+[the administrators for the Bazel Rules Authors SIG Open Collective]: https://opencollective.com/bazel-rules-authors-sig#category-ABOUT
