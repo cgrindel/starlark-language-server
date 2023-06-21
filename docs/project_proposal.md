@@ -98,12 +98,14 @@ appreciate recurring sponsorship to incent the maintenance and upkeep of the pro
 
 - [Contribution page]
 - [Starlark LSP issue]
+- [Open Collective Projects documentation]
 
 [Apache 2.0]: https://www.apache.org/licenses/LICENSE-2.0
 [Bazel Rules Authors SIG Open Collective]: https://opencollective.com/bazel-rules-authors-sig
 [Chuck Grindel]: https://github.com/cgrindel
 [Go]: https://go.dev/
 [Language Server Protocol]: https://microsoft.github.io/language-server-protocol/
+[Open Collective Projects documentation]: https://docs.opencollective.com/help/collectives/projects
 [Planning Google sheet]: https://docs.google.com/spreadsheets/d/1IJCaemCIii3V0ClV8MzrZ1Vxx3KQcOt2Eg69Jj7oQYQ/edit?usp=sharing
 [Starlark LSP issue]: https://github.com/bazel-contrib/SIG-rules-authors/issues/52
 [Starlark Language Server project]: https://opencollective.com/bazel-rules-authors-sig/projects/starlark-language-server
