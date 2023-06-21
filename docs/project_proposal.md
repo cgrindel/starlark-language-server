@@ -6,9 +6,10 @@ project a reality.
 
 | Quick Facts  |                                                                                                                                                          |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| What         | Implement a language server for the [Starlark language].                                                                                                 |
+| What         | Implement a language server for [Starlark].                                                                                                              |
 | Why          | Fancy features like go to definition, hover information and auto complete in your favorite editor/IDE. (see [Language Server Protocol] for more details) |
 | Who          | [Chuck Grindel]                                                                                                                                          |
+| When         | As soon as we meet our funding goals.                                                                                                                    |
 | Language     | Implement the server using [Go].                                                                                                                         |
 | License      | [Apache 2.0]                                                                                                                                             |
 | GitHub Owner | <https://github.com/bazel-contrib>                                                                                                                       |
@@ -29,7 +30,7 @@ The plan consists of four phases:
 1. Support auto completion.
 1. Support signature help.
 
-Assuming that we meet our initial funding goals, other features that are on the roadmap are support
+Once we meet our initial funding goals, other features that are on the roadmap are support
 for
 
 - linting
@@ -44,17 +45,20 @@ To gauge the community's interest and to ensure that we have enough support befo
 we are setting this up like a Kickstarter project. Reaching a funding goal unlocks the phase,
 green-lighting it for development.
 
-| Phase                                                            | Estimate (Weeks) | Funding Goal |
-| ---------------------------------------------------------------- | ---------------: | -----------: |
-| Initial server implementation; go to definition, find references |                8 |      $60,000 |
-| Support hover information                                        |                3 |      $16,000 |
-| Support auto completion                                          |                3 |      $16,000 |
-| Support signature help                                           |                3 |      $16,000 |
+| Phase                                                                     | Estimate (Weeks) | Funding Goal |
+| ------------------------------------------------------------------------- | ---------------: | -----------: |
+| Phase 1: Initial server implementation; go to definition, find references |               11 |      $64,000 |
+| Phase 2: Support hover information                                        |                3 |      $16,000 |
+| Phase 3: Support auto completion                                          |                3 |      $16,000 |
+| Phase 4: Support signature help                                           |                3 |      $16,000 |
+| Grand Total                                                               |               20 |     $111,000 |
+
+[Planning Google sheet]
 
 ### 💵 Contribute / Sponsorship
 
 We need your help! We can't get this project started without you. If you wish that your editor/IDE
-provided magic for Starlark like other first-class languages, please head over to the [contribution
+provided magic for [Starlark] like other first-class languages, please head over to the [contribution
 page] and sponsor this project.
 
 ### 🗓️ Timeline
@@ -100,11 +104,11 @@ appreciate recurring sponsorship to incent the maintenance and upkeep of the pro
 [Chuck Grindel]: https://github.com/cgrindel
 [Go]: https://go.dev/
 [Language Server Protocol]: https://microsoft.github.io/language-server-protocol/
+[Planning Google sheet]: https://docs.google.com/spreadsheets/d/1IJCaemCIii3V0ClV8MzrZ1Vxx3KQcOt2Eg69Jj7oQYQ/edit?usp=sharing
 [Starlark LSP issue]: https://github.com/bazel-contrib/SIG-rules-authors/issues/52
-[Starlark language]: https://github.com/bazelbuild/starlark/blob/master/spec.md
+[Starlark Language Server project]: https://opencollective.com/bazel-rules-authors-sig/projects/starlark-language-server
 [Starlark]: https://github.com/bazelbuild/starlark/blob/master/spec.md
 [collecting funds now]: https://opencollective.com/bazel-rules-authors-sig/projects/starlark-language-server#category-CONTRIBUTE
 [contributing]: https://opencollective.com/bazel-rules-authors-sig/projects/starlark-language-server#category-CONTRIBUTE
 [contribution page]: https://opencollective.com/bazel-rules-authors-sig/projects/starlark-language-server#category-CONTRIBUTE
-[Starlark Language Server project]: https://opencollective.com/bazel-rules-authors-sig/projects/starlark-language-server
 [the administrators for the Bazel Rules Authors SIG Open Collective]: https://opencollective.com/bazel-rules-authors-sig#category-ABOUT
