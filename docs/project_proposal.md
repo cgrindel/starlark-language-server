@@ -23,7 +23,7 @@ wishes that they had for [Starlark].
 
 ## 📝 The Plan
 
-The plan consists of four phases:
+[The plan] consists of four phases:
 
 1. Initial server implementation plus support for go to definition and find references.
 1. Support hover information.
@@ -106,7 +106,8 @@ appreciate recurring sponsorship to incent the maintenance and upkeep of the pro
 [Go]: https://go.dev/
 [Language Server Protocol]: https://microsoft.github.io/language-server-protocol/
 [Open Collective Projects documentation]: https://docs.opencollective.com/help/collectives/projects
-[Planning Google sheet]: https://docs.google.com/spreadsheets/d/1IJCaemCIii3V0ClV8MzrZ1Vxx3KQcOt2Eg69Jj7oQYQ/edit?usp=sharing
+[The plan]: https://docs.google.com/spreadsheets/d/1IJCaemCIii3V0ClV8MzrZ1Vxx3KQcOt2Eg69Jj7oQYQ/edit?usp=sharing
+[planning Google sheet]: https://docs.google.com/spreadsheets/d/1IJCaemCIii3V0ClV8MzrZ1Vxx3KQcOt2Eg69Jj7oQYQ/edit?usp=sharing
 [Starlark LSP issue]: https://github.com/bazel-contrib/SIG-rules-authors/issues/52
 [Starlark Language Server project]: https://opencollective.com/bazel-rules-authors-sig/projects/starlark-language-server
 [Starlark]: https://github.com/bazelbuild/starlark/blob/master/spec.md
