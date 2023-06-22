@@ -53,7 +53,7 @@ green-lighting it for development.
 | Phase 4: Support signature help                                           |                3 |      $16,000 |
 | Grand Total                                                               |               20 |     $111,000 |
 
-[Planning Google sheet]
+For more details on the plan and the estimates, please see the [planning Google sheet].
 
 ### 💵 Contribute / Sponsorship
 
