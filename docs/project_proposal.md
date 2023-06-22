@@ -45,13 +45,13 @@ To gauge the community's interest and to ensure that we have enough support befo
 we are setting this up like a Kickstarter project. Reaching a funding goal unlocks the phase,
 green-lighting it for development.
 
-| Phase                                                                     | Estimate (Weeks) | Funding Goal |
-| ------------------------------------------------------------------------- | ---------------: | -----------: |
-| Phase 1: Initial server implementation; go to definition, find references |               11 |      $64,000 |
-| Phase 2: Support hover information                                        |                3 |      $16,000 |
-| Phase 3: Support auto completion                                          |                3 |      $16,000 |
-| Phase 4: Support signature help                                           |                3 |      $16,000 |
-| Grand Total                                                               |               20 |     $111,000 |
+| Phase                                                                              | Estimate (Weeks) | Funding Goal |
+| ---------------------------------------------------------------------------------- | ---------------: | -----------: |
+| Phase 1: Initial server implementation; go to definition, find references          |               15 |      $83,000 |
+| Phase 2: Support hover information (e.g., variable type, function signature & doc) |                5 |      $26,000 |
+| Phase 3: Support auto completion                                                   |                4 |      $24,000 |
+| Phase 4: Support signature help                                                    |                3 |      $16,000 |
+| Grand Total                                                                        |               26 |     $147,000 |
 
 For more details on the plan and the estimates, please see the [planning Google sheet].
 
